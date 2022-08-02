@@ -14,7 +14,7 @@
 >>
 ```diff
 + C++ [Medium]
-+ C# [High]
++ C# [Medium]
 + HTML [High]
 + CSS [High]
 - PHP [Very Low]
