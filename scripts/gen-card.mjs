@@ -59,15 +59,12 @@ const LINE = 22
 const W = 480
 const H = 208
 
+// Ferris, the Rust mascot. Matches the crab in the profile status.
 const ART = [
-  '       _____',
-  '      /     \\',
-  '   __/       \\__',
-  '  /_____________\\',
-  '    | o     o |',
-  '    |    ^    |',
-  '    |  ~~~~~  |',
-  '     \\_______/',
+  '     _~^~^~_',
+  ' \\) /  o o  \\ (/',
+  "   '_   -   _'",
+  "   / '-----' \\",
 ]
 
 const C = {
