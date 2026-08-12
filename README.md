@@ -1,16 +1,8 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MeFax/MeFax/output/card-dark.svg" />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MeFax/MeFax/output/card.svg" />
-    <img
-      alt="fax@github"
-      src="https://raw.githubusercontent.com/MeFax/MeFax/output/card.svg"
-      width="520" />
-  </picture>
+  <img
+    alt="fax@github"
+    src="https://raw.githubusercontent.com/MeFax/MeFax/output/card.svg"
+    width="480" />
 </p>
 
 <p align="center">
