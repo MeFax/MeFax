@@ -2,14 +2,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MeFax/MeFax/main/assets/fax-dark.svg" />
+      srcset="https://raw.githubusercontent.com/MeFax/MeFax/output/card-dark.svg" />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MeFax/MeFax/main/assets/fax.svg" />
+      srcset="https://raw.githubusercontent.com/MeFax/MeFax/output/card.svg" />
     <img
-      alt="Fax"
-      src="https://raw.githubusercontent.com/MeFax/MeFax/main/assets/fax.svg"
-      width="252" />
+      alt="fax@github"
+      src="https://raw.githubusercontent.com/MeFax/MeFax/output/card.svg"
+      width="520" />
   </picture>
 </p>
 
@@ -25,8 +25,4 @@
       alt="Contribution graph"
       src="https://raw.githubusercontent.com/MeFax/MeFax/output/snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <sub>Most of my work is private.</sub>
 </p>
