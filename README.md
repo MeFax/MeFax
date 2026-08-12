@@ -1,23 +1,19 @@
-<h1 align="center">Hey👋, I'm Fax</h1>
+<h2 align="center">Fax</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MeFax&theme=github_dark&show_icons=true&hide_border=true)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MeFax/MeFax/output/snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MeFax/MeFax/output/snake.svg" />
+    <img
+      alt="Contribution graph"
+      src="https://raw.githubusercontent.com/MeFax/MeFax/output/snake.svg" />
+  </picture>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeFax&theme=github_dark&hide_border=true)
-
-``🔭 I’m currently working on: C++``<br>
-``📫 Contact: Fax#0001``<br>
-``☕ My Medicine Coffee``<br>
-<br>
-<br>
-
->``Languages:``
->>
-```diff
-+ C++ [Medium]
-+ C# [Medium]
-+ HTML [High]
-+ CSS [High]
-- PHP [Very Low]
-- MYSQL [Low]
-```
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MeFax)
+<p align="center">
+  <sub>Most of my work is private.</sub>
+</p>
